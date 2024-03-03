@@ -23,6 +23,10 @@ This repository contains my Jupyter notebooks with exercise solutions from the M
 ## How to Use This Repository
 
 Feel free to explore the notebooks, run the code, and use the exercises to deepen your own understanding of machine learning concepts.
+```bash
+git clone https://github.com/Biotechnologyguy/machine-learning.git
+cd machine-learning
+```
 
 ## Acknowledgements
 
