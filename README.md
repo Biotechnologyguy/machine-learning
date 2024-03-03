@@ -1,4 +1,4 @@
-# Machine Learning Specialization - Exercise Notebooks 📒
+# Machine Learning Specialization - Notebooks 📒
 
 This repository contains my Jupyter notebooks with exercise solutions from the Machine Learning Specialization by Andrew Ng, offered by Stanford Online and DeepLearning.AI. The specialization provided a deep dive into foundational machine learning concepts, leveraging libraries like NumPy and scikit-learn, and covering a wide range of algorithms and techniques.
 
