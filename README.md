@@ -27,6 +27,7 @@ Feel free to explore the notebooks, run the code, and use the exercises to deepe
 git clone https://github.com/Biotechnologyguy/machine-learning.git
 cd machine-learning
 ```
+Run the notebooks and have fun!!
 
 ## Acknowledgements
 
