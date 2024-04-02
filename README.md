@@ -28,6 +28,7 @@ git clone https://github.com/Biotechnologyguy/machine-learning.git
 cd machine-learning
 ```
 Run the notebooks and have fun!!
+Please note that this is to document my learning only!!!
 
 ## Acknowledgements
 
